@@ -1,6 +1,9 @@
+# 실행파일
+실행파일은 드라이브에서 다운로드: https://drive.google.com/drive/folders/13AuEXjVmTF_Fwd8IrAGHmuj9F_URFSOn?usp=sharing
+
 # path 설정
 이미지들: ./img/groupname/######.jpg (e.g., ./img/tshirt/000001.jpg)
-아웃풋: ./Output/groupname/######.jpg (e.g., ./Output/tshirt/000001.json)
+아웃풋: ./Output/groupname/######.jpg (e.g., ./Output/tshirt/000001.json) (자동생성됨)
 
 # img 다운로드
 드라이브에서 알집파일 다운로드: https://drive.google.com/drive/folders/1K5yxXR2ZKOG1P75smlirVb75QlScP1od?usp=sharing
